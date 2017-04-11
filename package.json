@@ -1,0 +1,22 @@
+{
+  "name": "guz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jguz/jguz-hapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jguz/jguz-hapi/issues"
+  },
+  "homepage": "https://github.com/jguz/jguz-hapi#readme",
+  "dependencies": {
+    "hapi": "^16.1.1"
+  }
+}
